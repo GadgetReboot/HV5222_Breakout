@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HV5222
+D 32-Channel, Serial to Parallel Converter w/ Open Drain Outputs, 220V
+K Serial to Parallel Converter Open Drain
+F https://www.microchip.com/wwwproducts/en/HV5222
+$ENDCMP
+#
+#End Doc Library
