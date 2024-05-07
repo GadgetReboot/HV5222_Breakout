@@ -145,7 +145,7 @@ Digit8
 Text Label 1850 4300 0    50   ~ 0
 Digit9
 Text Label 1850 4400 0    50   ~ 0
-Digit10
+Digit0
 Text Label 1850 4500 0    50   ~ 0
 LeftDecimal
 Text Label 1850 4700 0    50   ~ 0
