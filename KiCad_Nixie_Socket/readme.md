@@ -1,0 +1,1 @@
+This is the KiCad schematic for the IN-12 nixie tube breakout board and a pcb footprint for the nixie socket, which uses individual nixie socket pins available on ebay/AliExpress etc.  The pcb for the breakout board needs to be re-designed due to errors in the original.
